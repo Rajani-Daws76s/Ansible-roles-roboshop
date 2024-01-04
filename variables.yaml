@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb.aadhyuar2105.online.online # submit your host
-REDIS_HOST: redis.aadhyuar2105.online.online
-MYSQL_HOST: mysql.aadhyuar2105.online.online
-RABBITMQ_HOST: rabbitmq.aadhyuar2105.online.online
-CATALOGUE_HOST: catalogue.aadhyuar2105.online.online
-USER_HOST: user.aadhyuar2105.online.online
-CART_HOST: cart.aadhyuar2105.online.online
-SHIPPING_HOST: shipping.aadhyuar2105.online.online
-PAYMENT_HOST: payment.aadhyuar2105.online.online
+MONGODB_HOST: mongodb.aadhyuar2105.online # submit your host
+REDIS_HOST: redis.aadhyuar2105.online
+MYSQL_HOST: mysql.aadhyuar2105.online
+RABBITMQ_HOST: rabbitmq.aadhyuar2105.online
+CATALOGUE_HOST: catalogue.aadhyuar2105.online
+USER_HOST: user.aadhyuar2105.online
+CART_HOST: cart.aadhyuar2105.online
+SHIPPING_HOST: shipping.aadhyuar2105.online
+PAYMENT_HOST: payment.aadhyuar2105.online
 DISPATCH_HOST: dispatch.daws76s.online
